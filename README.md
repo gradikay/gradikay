@@ -8,7 +8,7 @@
 - www.fiberabbit.com : Prebuilt Serverless Applications
 - www.bozindo.com : Congo's own Online Business Page
 - www.yebana.com : Congolese Resume finder
-- www.animaldatabase.com : A database of animal names
+- www.animaldatabase.net : A database of animal names
 
 <!---
 gradikay/gradikay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
