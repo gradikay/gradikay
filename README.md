@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on building better software for Africa
 - 📫 How to reach me Facebook (https://www.facebook.com/profile.php?id=100000887259227)
 
+### Projects
+- www.fiberabbit.com : Prebuilt Serverless Applications
+- www.bozindo.com : Congo's own Online Business Page
+- www.yebana.com : Congolese Resume finder
+- www.animaldatabase.com : A database of animal names
+
 <!---
 gradikay/gradikay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
