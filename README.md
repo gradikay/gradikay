@@ -5,10 +5,11 @@
 - 📫 How to reach me Facebook (https://www.facebook.com/profile.php?id=100000887259227)
 
 ### Projects
-- www.fiberabbit.com : Prebuilt Serverless Applications
+- www.dissare.com : Blog
 - www.bozindo.com : Congo's own Online Business Page
-- www.yebana.com : Congolese Resume finder
-- www.animaldatabase.net : A database of animal names
+- www.yebana.com : Congolese Resume finder - old no longer maintained - archived
+- www.animaldatabase.net : A database of animal names - old no longer maintained - archived
+- www.fiberabbit.com : Prebuilt Serverless Applications - old no longer maintained - archived
 
 <!---
 gradikay/gradikay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
