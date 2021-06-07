@@ -5,7 +5,8 @@
 - 📫 How to reach me Facebook (https://www.facebook.com/profile.php?id=100000887259227)
 
 ### Projects
-- www.dissare.com : Blog
+- www.recetty.com : Recipe Blog
+- www.dissare.com : Ranking Blog
 - www.bozindo.com : Congo's own Online Business Page
 - www.yebana.com : Congolese Resume finder - old no longer maintained - archived
 - www.animaldatabase.net : A database of animal names - old no longer maintained - archived
