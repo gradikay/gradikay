@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to build softwares, and cryptocurrencies for Africa
 - 💞️ I’m looking to collaborate on building better software for Africa
 - 📫 How to reach me Facebook (https://www.facebook.com/profile.php?id=100000887259227)
+- https://docs.traderjoexyz.com/main/trader-joe/liquidity-pool-tutorial
 
 ### Projects
 - www.recetty.com : Recipe Blog
