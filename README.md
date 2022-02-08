@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to build softwares, and cryptocurrencies for Africa
 - 💞️ I’m looking to collaborate on building better software for Africa
 - 📫 How to reach me Facebook (https://www.facebook.com/profile.php?id=100000887259227)
-- https://traderjoexyz.com/pool/0x95e812C4f88a1e9Ff350aa42a0B8FcE75e1E3B8C/AVAX#/
 
 ### Projects
 - www.recetty.com : Recipe Blog
